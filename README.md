@@ -1,1 +1,1 @@
-This is a fake Google Search Page.
+This is the repo for my fake Google Search Page.
