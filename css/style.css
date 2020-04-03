@@ -1,0 +1,29 @@
+img {
+    display: block;
+    padding-top: 135px;
+    padding-bottom: 35px;
+    margin: 0 auto;
+}
+input {
+    display: block;
+    width:500px;
+    height:25px;
+    margin-top: 10px;
+    margin: 0 auto;
+}
+#search-button {
+    display: inline-block;
+    margin:1%;
+    margin-left: 43%;
+    margin-right: 1.2%;
+    height:35px;
+    width:125px;
+    float:left;
+}
+#lucky-button{
+    display: inline-block;
+    margin: 1% auto;
+    height:35px;
+    width:125px;
+    float:left;
+}
